@@ -1,7 +1,5 @@
-# Esp8266BasedCoronaVirusTracking on a i2c 20x4 LCD
-
-
-# Please pay attention to the warnings about corona virus. Let's Stay at home!
+# Esp8266 Covid Ticker on a i2c 20x4 LCD
+# Bleibt zu hause
 
 
  1- Change your wifi information from **WifiConnect.h** file
@@ -20,9 +18,6 @@
 
 [logo]: https://github.com/kingofcamel/Esp8266BasedCoronaVirusTracking/blob/master/91726393_3151714924839085_3326784480961626112_o.jpg "Logo Title Text 2"
 
-[logo]: https://github.com/kingofcamel/Esp8266BasedCoronaVirusTracking/blob/master/feldgroessen.JPG "Logo Title Text 3"   
-   
-  
   
 
 
