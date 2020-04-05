@@ -18,7 +18,7 @@ https://www.thingiverse.com/thing:72719
    
    GET (https://coronavirus-19-api.herokuapp.com/countries) -> all countries info
    
- 3- Ich hoffe für alle das ich die Datenfelder viel zu gross gewählt habe
+ 3- Ich hoffe für alle das ich die Datenfelder viel zu gross gewählt habe.
     Die Uhr läuft mit deutscher Sommerzeit. Auch da hoffe ich das das reicht ...
     Bleibt alle gesund
  
