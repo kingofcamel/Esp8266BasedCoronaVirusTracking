@@ -18,7 +18,7 @@
  
  ![alt text][logo]
 
-[logo]: https://github.com/volkanunal/Esp8266BasedCoronaVirusTracking/blob/master/image.jpeg "Logo Title Text 2"
+[logo]: https://github.com/kingofcamel/Esp8266BasedCoronaVirusTracking/blob/master/91726393_3151714924839085_3326784480961626112_o.jpg "Logo Title Text 2"
    
    
   
