@@ -1,4 +1,4 @@
-# Esp8266BasedCoronaVirusTracking
+# Esp8266BasedCoronaVirusTracking on a i2c 20x4 LCD
 
 
 # Please pay attention to the warnings about corona virus. Let's Stay at home!
