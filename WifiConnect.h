@@ -46,8 +46,8 @@ vConnWifiNetworkViaSdk(void)
   
   wifi_set_opmode(STATION_MODE);
   
-  char ssid[32] = "yourssid";
-  char password[64] = "yourpass";
+  char ssid[32] = "SSID";
+  char password[64] = "Password";
   
   struct station_config stationConf;
   stationConf.bssid_set = 0;
